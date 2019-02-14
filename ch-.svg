@@ -19,9 +19,9 @@ viewBox="0 0 677.32 677.32"
   <style type="text/css">
    <![CDATA[
     @font-face { font-family:"Ideal Sans Bold";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
-    .str0 {stroke:#00A859;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#3E4095;stroke-width:20;stroke-miterlimit:22.9256}
     .str1 {stroke:#FEFEFE;stroke-width:20;stroke-miterlimit:22.9256}
-    .fil0 {fill:#00A859}
+    .fil0 {fill:#3E4095}
     .fil1 {fill:white}
     .fnt0 {font-weight:normal;font-size:211.67px;font-family:'Ideal Sans Bold'}
    ]]>
